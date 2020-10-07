@@ -11,4 +11,4 @@ Raise a PR to update the README with the format
 * [Pokefusion](https://github.com/danjordan/pokefusion) - Run `npx pokefusion` in your terminal for a random fusing of two pokemon (Uses https://pokemon.alexonsager.net/)
 * [Pynonymizer](https://github.com/jerometwell/pynonymizer) - A universal tool for translating sensitive production database dumps into anonymized copies.
 * [HardWire](https://github.com/jerometwell/hardwire) - A compile-time, non-intrusive dependency injection system for Crystal.
-
+* [bunnyplot](https://github.com/jerometwell/bunnyplot) - A CLI for producting diagram-able GraphML from the RabbitMQ management api.
